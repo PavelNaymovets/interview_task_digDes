@@ -9,7 +9,7 @@
 
 Структура коллекции - таблица, в которой есть наименования колонок и каждая строчка в таблице это элемент коллекции. Пример:
 
-![Image alt](https://github.com/PavelNaymovets/interview_task_digDesJavaSchool/blob/master/image/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B.png)
+![Image alt](https://github.com/PavelNaymovets/interview_task_digDes/blob/master/image/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B.png)
 
 ### Требования
 Подробным списком требований представлен по _[ссылке](https://docs.google.com/document/d/1QNtu5L3ppvNF-o06ho7eU4jm1R2MQK-For_DWnNZRRE/edit)_.
