@@ -12,7 +12,7 @@
 ![Image alt](https://github.com/PavelNaymovets/interview_task_digDes/blob/master/image/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B.png)
 
 ### Требования
-Подробный список требований представлен по _[ссылке](https://docs.google.com/document/d/1QNtu5L3ppvNF-o06ho7eU4jm1R2MQK-For_DWnNZRRE/edit)_.
+Подробный список требований представлен по _[ссылке](https://drive.google.com/file/d/1_An6zndVYlzcEYejns31oC8bRWbyfg_l/view?usp=sharing)_.
 
 #### Основные тебования:
 * Необходимо реализовать метод, который на вход получает команду в виде строки

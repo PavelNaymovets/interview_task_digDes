@@ -1,0 +1,30 @@
+INSERT VALUES ‘lastName’ = ‘ivanov’ , ‘id’ = 1, ‘age’ = 35, ‘active’ = false
+INSERT VALUES ‘lastName’ = ‘smirnov’ , ‘id’ = 2, ‘age’ = 10, ‘active’ = true
+INSERT VALUES ‘lastName’ = ‘fiodorow’ , ‘id’ = 3, ‘age’ = 40, ‘active’ = true
+INSERT VALUES ‘lastName’ = ‘pirogov’ , ‘id’ = 4, ‘age’ = 10, ‘active’ = null
+insert *
+inseRt
+
+UPDATE VALUES ‘active’ = false, ‘cost’ = 10.1 where ‘id’ = 3 or id = 1
+UPDATE VALUES active = null
+UPDATE *
+UPDATE
+
+SELECT WHERE ‘age’ >= 30
+SELECT WHERE ‘age’ <= 30
+SELECT WHERE ‘age’ < 30
+SELECT WHERE ‘age’ > 30
+SELECT WHERE ‘lastName’ like ‘%iodor%’
+SELECT WHERE ‘lastName’ like ‘%ow’
+SELECT WHERE ‘lastName’ like ‘fiod%’
+SELECT WHERE ‘lastName’ = fiodorow’
+SELECT WHERE ‘lastName’ != fiodorow’
+SELECT WHERE ‘age’ >= 30 and ‘lastName’ like ‘%iodor%’ or id > 1
+SELECT WHERE id > 0 and age > 0 and cost != 0 and lastname like fiodorow or active = true
+SELECT WHERE active != 0
+SELECT *
+SELECT
+
+DELETE WHERE ‘id’ = 3
+DELETE *
+DELETE
